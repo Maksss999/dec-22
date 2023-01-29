@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9dfb395-336c-4ff8-a7a3-bf4fc97c7d41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson4/adaptive1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/adaptive2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Пользователь/Desktop/gittest&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -73,6 +71,8 @@
       <workItem from="1674663830725" duration="8300000" />
       <workItem from="1674744403631" duration="1708000" />
       <workItem from="1674832397760" duration="7869000" />
+      <workItem from="1674896177779" duration="465000" />
+      <workItem from="1674987482837" duration="670000" />
     </task>
     <task id="LOCAL-00001" summary="lesson1">
       <created>1674064007919</created>
